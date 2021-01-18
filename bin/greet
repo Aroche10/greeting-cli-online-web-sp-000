@@ -8,4 +8,4 @@ name = gets.strip
 
 greeting("Don")
 
-puts "Hello Done. It's nice to meet you."
+puts "Hello Don. It's nice to meet you."
