@@ -6,6 +6,6 @@ puts "Hi! I'm HAL, what's your name?"
 # code your CLI here!
 name = gets.strip
 
-def greeting(name)
-  puts "Don"
+def greeting(name = "Don")
+  puts "#{name}"
 end
